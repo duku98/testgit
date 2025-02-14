@@ -1,8 +1,4 @@
-print("Hello World")
+def developerA():
+    print("I am developer A")
 
-print("Hello World")
 
-def funcion():
-    print("ciao")
-
-funcion()

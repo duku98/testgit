@@ -1,3 +1,1 @@
-def developerA():
-    print("I am developer A")
-
+print("Ciao Mondo")

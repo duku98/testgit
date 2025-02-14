@@ -1,2 +1,2 @@
-print("Hello World") 
-print("Hello World") 
+def developerA():
+    print("I am developer A")

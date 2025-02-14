@@ -1,1 +1,2 @@
-print("Ciao Mondo")
+def function():
+  print("Ciao mondo")
